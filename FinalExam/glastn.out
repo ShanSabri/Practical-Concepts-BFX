@@ -1,0 +1,37 @@
+Homo sapiens tissue inhibitor of metalloproteinase 4 (TIMP4), mRNA
+          Length = 1189
+
+ Score = 2319 bits (1170), Expect = 0.0
+ Identities = 1170/1170 (100%)
+ Strand = Plus / Plus
+
+                                                                        
+Query: 1    cctgctggggccgtccagtcccccagacctcacaggctcagtcgcggatctgcagttttt 60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct: 1    cctgctggggccgtccagtcccccagacctcacaggctcagtcgcggatctgcagttttt 60
+
+                                                                        
+Query: 61   tgcctgggagccctcggcccgcgccaagctgggtgctgttgctgcggctgctggcgttgc 120
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct: 61   tgcctgggagccctcggcccgcgccaagctgggtgctgttgctgcggctgctggcgttgc 120
+
+                                                                        
+Query: 121  tgcggcccccggggctgggtgaggcatgcagctgcgccccggcgcaccctcagcagcaca 180
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct: 121  tgcggcccccggggctgggtgaggcatgcagctgcgccccggcgcaccctcagcagcaca 180
+
+                                                                        
+Query: 181  tctgccactcggcacttgtgattcgggccaaaatctccagtgagaaggtagttccggcca 240
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct: 181  tctgccactcggcacttgtgattcgggccaaaatctccagtgagaaggtagttccggcca 240
+
+                                                                        
+Query: 241  gtgcagaccctgctgacactgaaaaaatgctccggtatgaaatcaaacagataaagatgt 300
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct: 241  gtgcagaccctgctgacactgaaaaaatgctccggtatgaaatcaaacagataaagatgt 300
+
+                                                                        
+Query: 301  tcaaagggtttgagaaagtcaaggatgttcagtatatctatacgccttttgactcttccc 360
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct: 301  tcaaagggtttgagaaagtcaaggatgttcagtatatctatacgccttttgactcttccc 360
+

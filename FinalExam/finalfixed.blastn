@@ -1,0 +1,223 @@
+BLASTN 2.0MP-WashU [09-Sep-1999] [irix6.5p-r10k-b64 00:09:32 10-Sep-1999]
+Copyright (C) 1996-1999 Washington University, Saint Louis, Missouri USA.
+All Rights Reserved.
+
+Reference:  Gish, W. (1996-1999) http://blast.wustl.edu
+
+Notice:  this program and its default parameter settings are optimized to find
+nearly identical sequences rapidly.  To identify weak similarities encoded in
+nucleic acid, use BLASTX, TBLASTN or TBLASTX.
+
+Query = Tissue Inhibitor of Metalloproteinase-1
+ (99 letters)
+
+Database:  embl
+           671,680 sequences; 1,396,607,598 total letters.
+Searching....10....20....30....40....50....60....70....80....90....100% done
+
+ 
+>EM_PAT:A10416 NUCLEOTIDE SEQUENCE OF HUMAN TIMP cDNA. 11/93
+            Length = 791
+
+  Plus Strand HSPs:
+
+ Score = 496 (80.3 bits), Expect = 3.1e-16, P = 3.1e-16
+ Identities = 99/99 (100%), Positives = 99/99 (100%), Strand = Plus / Plus
+
+Query:     1 TGAATCCTGCCCGGAGTGGAACTGAAGCCTGCACAGTGTCCACCCTGTTCCCACTCCCCC 60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct:   684 TGAATCCTGCCCGGAGTGGAACTGAAGCCTGCACAGTGTCCACCCTGTTCCCACTCCCCC 743
+
+Query:    61 CTTTCTTCCGGACAATGAAATAAAGAGTTACCACCCAGC 99
+             |||||||||||||||||||||||||||||||||||||||
+Sbjct:   744 CTTTCTTCCGGACAATGAAATAAAGAGTTACCACCCAGC 782
+
+>EM_HUM4:X04321  HUMAN mRNA FOR TISSUE INHIBITOR OF METALLOPROTEINASES
+            (TIMP). 3/95
+            Length = 782
+
+  Plus Strand HSPs:
+
+ Score = 494 (80.2 bits), Expect = 3.0e-16, P = 3.0e-16
+ Identities = 99/99 (100%), Positives = 99/99 (100%), Strand = Plus / Plus
+
+Query:     1 TGAATCCTGCCCGGAGTGGAACTGAAGCCTGCACAGTGTCCACCCTGTTCCCACTCCCCC 60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct:   684 TGAATCCTGCCCGGAGTGGAACTGAAGCCTGCACAGTGTCCACCCTGTTCCCACTCCCCC 743
+
+Query:    61 CTTTCTTCCGGACAATGAAATAAAGAGTTACCACCCAGC 99
+             |||||||||||||||||||||||||||||||||||||||
+Sbjct:   744 CTTTCTTCCGGACAATGAAATAAAGAGTTACCACCCAGC 782
+
+>EM_PAT:E00969 cDNA ENCODING NIC(NATURAL INHIBITOR OF COLLAGENASE).
+            10/97
+            Length = 855
+
+  Plus Strand HSPs:
+
+ Score = 487 (78.8 bits), Expect = 8.1e-16, P = 8.1e-16
+ Identities = 99/100 (99%), Positives = 99/100 (99%), Strand = Plus / Plus
+
+Query:     1 TGAATCCTGCCCGGAGTGGAA-CTGAAGCCTGCACAGTGTCCACCCTGTTCCCACTCCCC 59
+             ||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||
+Sbjct:   730 TGAATCCTGCCCGGAGTGGAAGCTGAAGCCTGCACAGTGTCCACCCTGTTCCCACTCCCC 789
+
+Query:    60 TCTTTCTTCCGGACAATGAAATAAAGAGTTACCACCCAGC 99
+             ||||||||||||||||||||||||||||||||||||||||
+Sbjct:   790 TCTTTCTTCCGGACAATGAAATAAAGAGTTACCACCCAGC 829
+
+>EM_PAT:E01431 cDNA ENCODING HUMAN METALOPROTEASE INHIBITOR. 10/97
+            Length = 793
+
+  Plus Strand HSPs:
+
+ Score = 485 (78.7 bits), Expect = 8.7e-16, P = 8.7e-16
+ Identities = 99/100 (99%), Positives = 99/100 (99%), Strand = Plus / Plus
+
+Query:     1 TGAATCCTGCCCGGAGTGGAA-CTGAAGCCTGCACAGTGTCCACCCTGTTCCCACTCCCC 59
+             ||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||
+Sbjct:   685 TGAATCCTGCCCGGAGTGGAANCTGAAGCCTGCACAGTGTCCACCCTGTTCCCACTCCCC 744
+
+Query:    60 TCTTTCTTCCGGACAATGAAATAAAGAGTTACCACCCAGC 99
+             ||||||||||||||||||||||||||||||||||||||||
+Sbjct:   745 TCTTTCTTCCGGACAATGAAATAAAGAGTTACCACCCAGC 784
+
+>EM_PAT:I08435 SEQUENCE 4 FROM PATENT WO 8604608. 2/95
+            Length = 787
+
+  Plus Strand HSPs:
+
+ Score = 484 (78.6 bits), Expect = 8.6e-16, P = 8.6e-16
+ Identities = 99/100 (99%), Positives = 99/100 (99%), Strand = Plus / Plus
+
+Query:     1 TGAATCCTGCCCGGAGTGGAA-CTGAAGCCTGCACAGTGTCCACCCTGTTCCCACTCCCC 59
+             ||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||
+Sbjct:   670 TGAATCCTGCCCGGAGTGGAAGCTGAAGCCTGCACAGTGTCCACCCTGTTCCCACTCCCC 729
+
+Query:    60 TCTTTCTTCCGGACAATGAAATAAAGAGTTACCACCCAGC 99
+             ||||||||||||||||||||||||||||||||||||||||
+Sbjct:   730 TCTTTCTTCCGGACAATGAAATAAAGAGTTACCACCCAGC 769
+
+>EM_PAT:I08344 SEQUENCE 3 FROM PATENT WO 8604608. 2/95
+            Length = 780
+
+  Plus Strand HSPs:
+
+ Score = 483 (78.5 bits), Expect = 8.5e-16, P = 8.5e-16
+ Identities = 99/100 (99%), Positives = 99/100 (99%), Strand = Plus / Plus
+
+Query:     1 TGAATCCTGCCCGGAGTGGAA-CTGAAGCCTGCACAGTGTCCACCCTGTTCCCACTCCCC 59
+             ||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||
+Sbjct:   667 TGAATCCTGCCCGGAGTGGAAGCTGAAGCCTGCACAGTGTCCACCCTGTTCCCACTCCCC 726
+
+Query:    60 TCTTTCTTCCGGACAATGAAATAAAGAGTTACCACCCAGC 99
+             ||||||||||||||||||||||||||||||||||||||||
+Sbjct:   727 TCTTTCTTCCGGACAATGAAATAAAGAGTTACCACCCAGC 766
+
+>EM_HUM3:M12607 HUMAN FIBROBLAST COLLAGENASE INHIBITOR mRNA, COMPLETE
+            CDS. 7/99
+            Length = 769
+
+  Plus Strand HSPs:
+
+ Score = 482 (78.4 bits), Expect = 8.4e-16, P = 8.4e-16
+ Identities = 99/100 (99%), Positives = 99/100 (99%), Strand = Plus / Plus
+
+Query:     1 TGAATCCTGCCCGGAGTGGAA-CTGAAGCCTGCACAGTGTCCACCCTGTTCCCACTCCCC 59
+             ||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||
+Sbjct:   670 TGAATCCTGCCCGGAGTGGAAGCTGAAGCCTGCACAGTGTCCACCCTGTTCCCACTCCCC 729
+
+Query:    60 TCTTTCTTCCGGACAATGAAATAAAGAGTTACCACCCAGC 99
+             ||||||||||||||||||||||||||||||||||||||||
+Sbjct:   730 TCTTTCTTCCGGACAATGAAATAAAGAGTTACCACCCAGC 769
+
+>EM_HUM3:M69906 HUMAN COLLAGENASE INHIBITOR mRNA, COMPLETE CDS. 7/99
+            Length = 764
+
+  Plus Strand HSPs:
+
+ Score = 480 (78.3 bits), Expect = 8.3e-16, P = 8.3e-16
+ Identities = 99/100 (99%), Positives = 99/100 (99%), Strand = Plus / Plus
+
+Query:     1 TGAATCCTGCCCGGAGTGGAA-CTGAAGCCTGCACAGTGTCCACCCTGTTCCCACTCCCC 59
+             ||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||
+Sbjct:   665 TGAATCCTGCCCGGAGTGGAAGCTGAAGCCTGCACAGTGTCCACCCTGTTCCCACTCCCC 724
+
+Query:    60 TCTTTCTTCCGGACAATGAAATAAAGAGTTACCACCCAGC 99
+             ||||||||||||||||||||||||||||||||||||||||
+Sbjct:   725 TCTTTCTTCCGGACAATGAAATAAAGAGTTACCACCCAGC 764
+
+>EM_PAT:I08432 SEQUENCE 1 FROM PATENT WO 8604608. 2/95
+            Length = 703
+
+  Plus Strand HSPs:
+
+ Score = 479 (78.8 bits), Expect = 8.2e-16, P = 8.2e-16
+ Identities = 99/100 (99%), Positives = 99/100 (99%), Strand = Plus / Plus
+
+Query:     1 TGAATCCTGCCCGGAGTGGAA-CTGAAGCCTGCACAGTGTCCACCCTGTTCCCACTCCCC 59
+             ||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||
+Sbjct:   586 TGAATCCTGCCCGGAGTGGAAGCTGAAGCCTGCACAGTGTCCACCCTGTTCCCACTCCCC 645
+
+Query:    60 TCTTTCTTCCGGACAATGAAATAAAGAGTTACCACCCAGC 99
+             ||||||||||||||||||||||||||||||||||||||||
+Sbjct:   646 TCTTTCTTCCGGACAATGAAATAAAGAGTTACCACCCAGC 685
+
+>EM_HUM4:D11139 HUMAN GENE FOR TISSUE INHIBITOR OF METALLOPROTEINASES,
+            PARTIAL SEQUENCE. 1/99
+            Length = 2431
+
+  Plus Strand HSPs:
+
+ Score = 478 (80.3 bits), Expect = 2.4e-15, P = 2.4e-15
+ Identities = 99/99 (100%), Positives = 99/99 (100%), Strand = Plus / Plus
+
+Query:     1 TGAATCCTGCCCGGAGTGGAACTGAAGCCTGCACAGTGTCCACCCTGTTCCCACTCCCCC 60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct:  1802 TGAATCCTGCCCGGAGTGGAACTGAAGCCTGCACAGTGTCCACCCTGTTCCCACTCCCCC 1861
+
+Query:    61 CTTTCTTCCGGACAATGAAATAAAGAGTTACCACCCAGC 99
+             |||||||||||||||||||||||||||||||||||||||
+Sbjct:  1862 CTTTCTTCCGGACAATGAAATAAAGAGTTACCACCCAGC 1900
+
+
+Parameters:
+  E=10
+  B=0
+  V=10
+  sump
+  cpus=8
+
+  ctxfactor=2.00
+
+  Query                        -----  As Used  -----    -----  Computed  ----
+  Strand MatID Matrix name     Lambda    K       H      Lambda    K       H
+   +1      0   +5,-4           0.192   0.173   0.357    same    same    same
+               Q=10,R=10       0.104   0.0151  0.0600    n/a     n/a     n/a
+   -1      0   +5,-4           0.192   0.173   0.357    same    same    same
+               Q=10,R=10       0.104   0.0151  0.0600    n/a     n/a     n/a
+
+  Query
+  Strand MatID  Length  Eff.Length     E     S  W   T  X   E2     S2
+   +1      0       99        99       10.  167 11 n/a 73  0.023   68
+                                                      71  0.0028  81
+   -1      0       99        99       10.  167 11 n/a 73  0.023   68
+                                                      71  0.0028  81
+
+Statistics:
+
+  Database:  /ebi/services/idata/blastdb/embl
+    Title:  embl
+    Release date:  unknown
+    Posted date:  1:25:36 PM BST Sep 29, 1999
+    Format:  BLAST-1.4
+  # of letters in database:  1,396,607,598
+  # of sequences in database:  671,680
+  # of database sequences satisfying E:  28
+  No. of states in DFA:  116 (232 KB)
+  Total size of DFA:  237 KB (256 KB)
+  Time to generate neighborhood:  0.01u 0.01s 0.02t  Elapsed: 00:00:00
+  No. of threads or processors used:  4
+  Search cpu time:  14.05u 12.56s 26.61t  Elapsed: 00:02:35
+  Total cpu time:  14.08u 12.63s 26.71t  Elapsed: 00:02:35
+  Start:  Thu Oct 14 17:59:44 1999   End:  Thu Oct 14 18:02:19 1999

@@ -1,0 +1,1 @@
+This is a test for question 6 of Perl lab 2.
